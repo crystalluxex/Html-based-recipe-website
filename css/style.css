@@ -17,7 +17,7 @@ nav{display:flex;gap:30px;}
 .recipe-card a{text-decoration:none;color:black;}
 
 /*HERO SECTION*/ 
-body{background-image:url("mainphoto.jpeg");background-repeat:no-repeat;background-position:0px 33px;background-size:100% 200px;margin:0px;}
+body{background-image:url("../mainphoto.jpeg");background-repeat:no-repeat;background-position:0px 33px;background-size:100% 200px;margin:0px;}
 
 h5{position:absolute;top:20px;font-size:18px;font-family:"Molle";color:#D6DB89;}
 
